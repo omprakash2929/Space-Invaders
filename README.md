@@ -7,7 +7,7 @@ Click Here: https://space-invaders-wars.netlify.app
 
 ## Preview
 
-![Alt Text](images/2024-09-28 18-47-04.gif)
+![Alt Text](images/demo.gif)
 
 
 ## 🛠 Project Overview

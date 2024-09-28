@@ -5,6 +5,11 @@ A retro-inspired browser game where you defend Earth from an alien invasion! Bui
 ## Demo Link
 Click Here: https://space-invaders-wars.netlify.app
 
+## Preview
+
+![Alt Text](images/2024-09-28 18-47-04.gif)
+
+
 ## 🛠 Project Overview
 
 This game was created for the **"Design and build a browser game with HTML/CSS/JS that incorporates Aliens as a theme"** developer challenge. The focus is on creating an engaging frontend experience, with the game fully playable in any modern web browser.
